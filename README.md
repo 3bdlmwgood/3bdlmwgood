@@ -6,52 +6,25 @@
 
 ---
 
+
 <div align="center">
 
 ## ⚡ TECH STACK
 
-<div align="center">
-
-### 👨‍💻 Programming Languages
-
+### Languages
 <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts&theme=dark" />
 
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,mongodb,mysql,sqlite&theme=dark" />
 <br/>
-
-### ⚙️ Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs&theme=dark" />
-
-<br/>
-
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-
-<br/><br/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
-
-<br/>
-
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
-<br/><br/>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
-
-<br/><br/>
-
-### 🛠️ Tools & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&theme=dark" />
+### Frontend & Tools
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,visualstudio,vscode,postman&theme=dark" />
 
 </div>
-
----
 
 <div align="center">
 
